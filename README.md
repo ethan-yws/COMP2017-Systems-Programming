@@ -1,2 +1,3 @@
 # Vritual-Filesystem
-Implementing a virtual file system in C language
+Virtual file system in C
+An uni project for USYD
